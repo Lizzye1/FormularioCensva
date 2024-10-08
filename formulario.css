@@ -11,6 +11,10 @@ h4{
     color: rgb(232, 232, 243);
     text-align: center;
 }
+.lis{
+         margin-top: 15px;
+     }
+
 
 .formulario {
     background: rgba(58, 58, 156, 0.8);
